@@ -1,0 +1,108 @@
+# Ay.mutagim — Generative Engine Optimization Map
+
+> A footwear brand seeking a classic, clean, and white website aesthetic. The brand leans toward timeless elegance with a minimalist visual identity, suggesting a refined and sophisticated approach to shoe design or retail.
+
+---
+
+## Pages
+
+### בית
+https://ay-mutagim-7282e2ef.zappy5.app
+היכנסו לעולם של אלגנטיות נקייה עם נעלי Numeris מבית Ay.mutagim. עיצוב מינימליסטי ואיכות בלתי מתפשרת לגבר המודרני. הצעד הראשון לסטייל מתחיל כאן.
+
+### אודות
+https://ay-mutagim-7282e2ef.zappy5.app/about
+הכירו את החזון שמאחורי Ay.mutagim: מותג נעליים המשלב אסתטיקה לבנה ונקייה עם תשוקה לעיצוב על-זמני. הסיפור שלנו, האומנות והמחויבות לאיכות מחכים לכם.
+
+### גלריה
+https://ay-mutagim-7282e2ef.zappy5.app/gallery
+דפדפו בגלריה המרהיבה של Ay.mutagim ותנו לעיצוב הנקי לדבר. כל זוג נעלי Numeris מספר סיפור של תחכום. התאהבו במראה הלבן המושלם.
+
+### שאלות נפוצות
+https://ay-mutagim-7282e2ef.zappy5.app/faq
+יש לכם שאלות על נעלי Numeris? אנחנו כאן עם כל התשובות! ממדריכי מידות ועד טיפים לטיפול בנעליים – קבלו את כל המידע החיוני במקום אחד. מוזמנים לחקור.
+
+### צור קשר
+https://ay-mutagim-7282e2ef.zappy5.app/contact
+מוכנים לשדרג את הסטייל? צרו קשר עם Ay.mutagim עוד היום! בין אם זו שאלה על נעלי Numeris או בקשה מיוחדת, הצוות שלנו יחזור אליכם במהירות. ההליכה המושלמת מתחילה פה.
+
+### Products
+https://ay-mutagim-7282e2ef.zappy5.app/products
+המוצרים שלנו - Ay.mutagim
+
+### Cart
+https://ay-mutagim-7282e2ef.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ay-mutagim-7282e2ef.zappy5.app/checkout
+תשלום
+
+### Login
+https://ay-mutagim-7282e2ef.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ay-mutagim-7282e2ef.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ay-mutagim-7282e2ef.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ay-mutagim-7282e2ef.zappy5.app/product/:slug
+פרטי המוצר - Ay.mutagim
+
+### Category
+https://ay-mutagim-7282e2ef.zappy5.app/category/:slug
+מוצרים - Ay.mutagim
+
+### תודה שפנית אלינו
+https://ay-mutagim-7282e2ef.zappy5.app/thank-you
+Ay.mutagim - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://ay-mutagim-7282e2ef.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ay-mutagim-7282e2ef.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ay-mutagim-7282e2ef.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ay.mutagim
+A footwear brand seeking a classic, clean, and white website aesthetic. The brand leans toward timeless elegance with a minimalist visual identity, suggesting a refined and sophisticated approach to shoe design or retail.
+
+## Target Audience
+- בני נוער אופנתיים
+- צעירים עירוניים מקצועיים
+- אוהבי מותגי יוקרה
+
+## Industry
+Footwear
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ay-mutagim-7282e2ef.zappy5.app/sitemap.xml
+- Robots: https://ay-mutagim-7282e2ef.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ay-mutagim-7282e2ef.zappy5.app/llms-full.txt
+- Products (JSON): https://ay-mutagim-7282e2ef.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ay-mutagim-7282e2ef.zappy5.app/product-feed.xml
